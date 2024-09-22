@@ -7,8 +7,20 @@ Sometimes, if you don't have your aliases setup correctly, "python3" will work w
 
 ## For WINDOWS:
 If my venv is named `venv`, I'd type `.\venv\Scripts\activate`
-Once activated into the virtual environment, you'd like `pip install -r requirements.txt`. This installs all libraries that are "requirements" for this project.
+Once activated into the virtual environment, you'd type `pip install -r requirements.txt`. This installs all libraries that are "requirements" for this project.
 
 ## For MAC:
 If my venv is named `venv`, I'd type `source venv/bin/activate`
-Once activated into the virtual environment, you'd like `pip install -r requirements.txt`. This installs all libraries that are "requirements" for this project.
+Once activated into the virtual environment, you'd type `pip install -r requirements.txt`. This installs all libraries that are "requirements" for this project.
+
+## For Both:
+
+Now that you have everything installed, you'll want to go into main.py and modify the variable `name` to be your name. Once you have completed this, you can go to
+
+
+## Important topics to know:
+Q: What is a gitignore?
+Q: What is requirements.txt?
+Q: Why use a virtual environment?
+Q: What is server side rendering?
+
