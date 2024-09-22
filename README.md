@@ -19,8 +19,7 @@ Now that you have everything installed, you'll want to go into main.py and modif
 
 
 ## Important topics to know:
-Q: What is a gitignore?
-Q: What is requirements.txt?
-Q: Why use a virtual environment?
-Q: What is server side rendering?
-
+Q: What is a gitignore?<br>
+Q: What is requirements.txt?<br>
+Q: Why use a virtual environment?<br>
+Q: What is server side rendering?<br>
