@@ -28,7 +28,7 @@ your terminal and type `python main.py` or `python3 main.py` if the first comman
 4. Create the virtual environment, activate into it, and then install the libraries<br>
 5. Modify `main.py` to display your name (change the variable)<br>
 6. Run `main.py` by typing either `python main.py` or `python3 main.py`<br>
-7 Open your browser and in the URL section type in `http://127.0.0.1:5000`<br>
+7. Open your browser and in the URL section type in `http://127.0.0.1:5000`<br>
 
 ## Important topics to know:
 Q: What is a gitignore?<br>
