@@ -19,8 +19,9 @@ Now that you have everything installed, you'll want to go into main.py and modif
 your terminal and type `python main.py` or `python3 main.py` if the first command didn't work. After this, you'd open up your browser of choice (I use Google Chrome) and type in `http://127.0.0.1:5000` into where the URL of the website would normally be. If you've done everything, you should see your name on the page.
 
 
-<br>
-## Steps to think about:<br>
+
+## Steps to think about:
+
 1. Fork Repo on GitHub<br>
 2. Clone Repo onto your PC<br>
 3. Make your own branch by typing `git checkout -b name_of_branch`
